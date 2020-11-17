@@ -3,8 +3,8 @@
   margin-bottom: 1rem;
 
   .tab-bar {
-    background: #2d2d2d;
-    border-bottom: 1px solid #444;
+    background: #251f3d;
+    border-bottom: 1px solid #40364a;
     height: 32px;
     display: flex;
     align-items: center;
@@ -82,7 +82,7 @@
     }
 
     .keyword-selector {
-      background: $desatPurple4;
+      background: #382F5C; // highlightBackground
       border-radius: 2px;
       margin: 0 -2px;
       padding: 0 2px;
